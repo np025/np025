@@ -40,7 +40,9 @@ I automate cloud infrastructure on AWS, Azure and GCP using Terraform, and I enj
 
 | Project | Description | Stack |
 |---|---|---|
+| [Three-Tier-App-Github-Action](https://github.com/np025/Three-Tier-App-Github-Action) | Three-tier application with a CI/CD pipeline built on GitHub Actions | GitHub Actions, Terraform, AZURE , GitHub Actions , AKS , ACR |
 | [aws-infra-using-terraform](https://github.com/np025/aws-infra-using-terraform) | AWS infrastructure provisioned with Terraform | Terraform, AWS |
+| [django_notes_app](https://github.com/np025/django_notes_app) | Django notes app containerised with Docker and deployed through a Jenkins CI/CD pipeline | Django, Docker, Jenkins |
 | [Terraform_3Tier_Application](https://github.com/np025/Terraform_3Tier_Application) | 3-tier application architecture on AWS using IaC | Terraform, AWS |
 | [ecommerce-app](https://github.com/np025/ecommerce-app) | E-commerce application infrastructure | Terraform |
 | [python_codes](https://github.com/np025/python_codes) | Python scripts for DevOps practice and automation | Python |
